@@ -1,4 +1,4 @@
-# 
+# grid trading bot for futures ultimate Automation | leverage-management & auto-leverage is the best grid trading bot for futures, featuring leverage-management and auto-leverage.
 
 
 
